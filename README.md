@@ -5,8 +5,9 @@
 - 📫 How to reach me ... Not entered yet.
 
 Based in the UK. NEW to GitHub, and all it's potential.
-Initially directkted here from Espressif to grab their software kernels.
+Initially directed here from Espressif to grab their software kernels.
 
-I hope to meet some of you as time goes on.
+I hope to meet some of you as time goes on. . . . 
+Oh, and as you can see from the number times I have eddited this file. . I CAN'T type well!
 
 Nick
